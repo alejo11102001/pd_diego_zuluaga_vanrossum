@@ -1,4 +1,3 @@
-GET http://localhost:3000/reports/clients/total-paid
 # Billing & Payments System — API + CSV Loader
 
 This repository contains a small **PostgreSQL + Express** back end with simple HTML files for creating clients and a CSV loader for seeding demo data. It models **clients**, **billings (invoices)**, **transactions**, and **users**.
