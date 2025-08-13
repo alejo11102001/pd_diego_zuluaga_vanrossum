@@ -1,0 +1,22 @@
+{
+  "name": "pruebamodulo",
+  "version": "1.0.0",
+  "main": "upload-csv.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "fs": "^0.0.1-security",
+    "node": "^22.18.0",
+    "nodemon": "^3.1.10",
+    "pg": "^8.16.3"
+  }
+}
